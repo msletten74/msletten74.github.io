@@ -9,14 +9,13 @@ header {
     justify-content: space-between;
     background-color: #29263B;
     align-items: center;
-    
+    flex-wrap: wrap;
 }
 
 nav {
     display: flex;
     flex-direction: row;
     justify-content: right;
-    flex-wrap: wrap;
 }
 
 div {
